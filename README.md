@@ -1,2 +1,2 @@
-# BeHealthy-AI - Your Personal Doctor
+# Stay-Healthy-AI - Your Personal Doctor
 Health Advisory AI for Non-Fatal Disease for Primary Actions
