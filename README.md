@@ -1,2 +1,2 @@
-# Stay-Healthy-AI - Your Personal Doctor
+# QuickDoc- Your Personal Doctor
 Health Advisory AI for Non-Fatal Disease for Primary Actions
